@@ -1,0 +1,37 @@
+.ukrposhta_div {
+    position: relative;
+}
+.up_preloader {
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    background: url("../images/fn_loader.svg") center center no-repeat;
+    background-size: 100px;
+    position: absolute;
+}
+#delivery_ukrposhta {
+    position: relative;
+}
+.term_ukrposhta {
+    display: none;
+    padding: 5px 0;
+}
+.ukrposhta_office {
+    display: none;
+}
+.ukrposhta_div select.error+label.error+.select2-container .select2-selection--single,
+.ukrposhta_div select.error+.select2-container .select2-selection--single{
+    border-color: rgb(231, 71, 71);
+}
+.fn_delivery_ukrposhta input:disabled
+{
+    background-color: grey;
+    color: #ffffff;
+    border: 1px solid #dbdbdb;
+}
+
+.fn_delivery_ukrposhta input:disabled + .form__placeholder
+{
+    color: #ffffff;
+    background-color: grey;
+}

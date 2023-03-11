@@ -1,0 +1,31 @@
+<?php
+
+$lang = array();
+$lang['up_cart_region'] = "Region";
+$lang['up_cart_district'] = "District";
+$lang['up_cart_city'] = "City";
+$lang['up_cart_office'] = "Post office";
+$lang['up_cart_street'] = "Street";
+$lang['up_cart_house'] = "Home";
+$lang['up_cart_apartment'] = "Apartment";
+$lang['up_cart_warehouse'] = "Point of issue";
+$lang['up_cart_cod'] = "C.O.D";
+$lang['up_cart_term'] = "Delivery time (days):";
+$lang['up_need_select_city'] = "Select a city to calculate shipping costs";
+$lang['up_delivery_price'] = "According to tariffs";
+$lang['up_select_city'] = "Select city";
+$lang['up_cart_error_region'] = "Please select region";
+$lang['up_cart_error_district'] = "Please select district";
+$lang['up_cart_error_city'] = "Please select a delivery city";
+$lang['up_cart_error_office'] = "Please select a shipping office";
+$lang['up_cart_error_street'] = "Please enter delivery street";
+$lang['up_cart_error_house'] = "Please enter the delivery house number";
+$lang['up_cart_error_warehouse'] = "Please select a shipping office";
+$lang['up_cart_calculate'] = "Calculating...";
+$lang['up_form_enter_region'] = 'Select region';
+$lang['up_form_enter_district'] = 'Select district';
+$lang['up_form_enter_city'] = 'Select a city';
+$lang['up_form_enter_street'] = 'Enter Street';
+$lang['up_form_enter_house'] = 'Enter house number';
+$lang['up_form_enter_office'] = 'Select Warehouse';
+$lang['up_ukrpostha_empty_results'] = 'Sorry, no matching results';

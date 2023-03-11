@@ -1,0 +1,31 @@
+<?php
+
+$lang = array();
+$lang['up_cart_region'] = "Область";
+$lang['up_cart_district'] = "Район";
+$lang['up_cart_city'] = "Город";
+$lang['up_cart_office'] = "Отделение доставки";
+$lang['up_cart_street'] = "Улица";
+$lang['up_cart_house'] = "Дом";
+$lang['up_cart_apartment'] = "Квартира";
+$lang['up_cart_warehouse'] = "Пункт выдачи";
+$lang['up_cart_cod'] = "Наложенный платеж";
+$lang['up_cart_term'] = "Время доставки (дней):";
+$lang['up_need_select_city'] = "Выберите город, для расчета стоимости доставки";
+$lang['up_delivery_price'] = "В соответствии с тарифами";
+$lang['up_select_city'] = "Выберите город";
+$lang['up_cart_error_region'] = "Выберите область";
+$lang['up_cart_error_district'] = "Выберите район";
+$lang['up_cart_error_city'] = "Выберите город доставки";
+$lang['up_cart_error_office'] = "Выберите отделение доставки";
+$lang['up_cart_error_street'] = "Введите улицу доставки";
+$lang['up_cart_error_house'] = "Введите номер дома доставки";
+$lang['up_cart_error_warehouse'] = "Выберите отделение доставки";
+$lang['up_cart_calculate'] = "Вычисляем...";
+$lang['up_form_enter_region'] = "Выберите область";
+$lang['up_form_enter_district'] = "Выберите район";
+$lang['up_form_enter_city'] = "Выберите город";
+$lang['up_form_enter_street'] = "Введите улицу";
+$lang['up_form_enter_house'] = "Введите номер дома";
+$lang['up_form_enter_office'] = "Выберите отделение";
+$lang['up_ukrpostha_empty_results'] = 'Извините, нет подходящих результатов.';
